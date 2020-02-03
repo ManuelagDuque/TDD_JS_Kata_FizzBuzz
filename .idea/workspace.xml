@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="173d9f71-0735-4ef2-9a54-1a5158c9e0cc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XI6szyejAtO3LYkxDFuvy8s9ms" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.16.3" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager" selected="Mocha.FizzBuzz test for multiples of 3 and 5, ussing ASSERT interface from Chai module">
+    <configuration name="FizzBuzz test for multiples of 3 and 5, ussing ASSERT interface from Chai module" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/test/FizzBuzzTest.js</test-file>
+      <test-names>
+        <name value="FizzBuzz test for multiples of 3 and 5, ussing ASSERT interface from Chai module" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="FizzBuzz test ussing ASSERT interface from Chai module" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/test/FizzBuzzTest.js</test-file>
+      <test-names>
+        <name value="FizzBuzz test ussing ASSERT interface from Chai module" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="test of the numbers bahavior" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/test/FizzBuzzTest.js</test-file>
+      <test-names>
+        <name value="test of the numbers bahavior" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Mocha.FizzBuzz test for multiples of 3 and 5, ussing ASSERT interface from Chai module" />
+        <item itemvalue="Mocha.FizzBuzz test ussing ASSERT interface from Chai module" />
+        <item itemvalue="Mocha.test of the numbers bahavior" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="173d9f71-0735-4ef2-9a54-1a5158c9e0cc" name="Default Changelist" comment="" />
+      <created>1580721471827</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580721471827</updated>
+      <workItem from="1580721476342" duration="11425000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="322" y="97" key="#FizzBuzz_test_for_multiples_of_3_and_5,_ussing_ASSERT_interface_from_Chai_module" timestamp="1580740154060">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="322" y="97" key="#FizzBuzz_test_for_multiples_of_3_and_5,_ussing_ASSERT_interface_from_Chai_module/0.23.1280.777@0.23.1280.777" timestamp="1580740154060" />
+    <state width="1259" height="184" key="GridCell.Tab.0.bottom" timestamp="1580753050302">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1259" height="184" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1580753050302" />
+    <state width="1259" height="184" key="GridCell.Tab.0.center" timestamp="1580753050301">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1259" height="184" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1580753050301" />
+    <state width="1259" height="184" key="GridCell.Tab.0.left" timestamp="1580753050301">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1259" height="184" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1580753050301" />
+    <state width="1259" height="184" key="GridCell.Tab.0.right" timestamp="1580753050302">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1259" height="184" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1580753050302" />
+  </component>
+</project>
